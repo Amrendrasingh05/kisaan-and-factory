@@ -1,0 +1,43 @@
+.Time{
+    display: flex;
+    /* background-color: blue; */
+    height: 300px;
+}
+.timmer{
+    /* background-color: aqua; */
+   display: flex;
+   width: 300px;
+   flex-direction:column;
+   margin-top: 10%;
+   margin-left: 2%;
+}
+h1{
+    /* margin-left: 2%; */
+    margin-top: -1%;
+    color: red;
+}
+h5{
+    margin-top: -2%;
+    /* margin-left: 2%; */
+}
+h3{
+    /* margin-left: 3%; */
+    margin-top: 8%;
+}
+.TimerImg{
+    margin-left: 10%;
+}
+.TimerImg img{
+    height: 95%;
+    /* margin-left: 1%; */
+}
+/* #blinkText
+{
+  animation: blink 2s infinite;  
+}
+@keyframes blink 
+{  
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+} */
